@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Part Time College Professor and Full Time Software Developer
+- 🌱 I’m currently learning to manage teams and implement continues delivery
+- 👯 I’m looking to collaborate on projects that make my life easier
+- 🤔 I’m looking for help with finding a stable `neovim` GUI.
+- 💬 Ask me about anything you like.
+- 🌐 [ekiim.xyz](https://ekiim.xyz)
 <!--
 **ekiim/ekiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
